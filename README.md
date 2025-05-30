@@ -7,4 +7,18 @@
     2024年から就労移行支援事業所NeuroDive横浜に通所を開始。<br>
     現在は再就職を目指してITスキルの再習得に取り組んでいます。<br><br>
     特に<strong>生成AI</strong>、<strong>Pythonによるデータ分析</strong>、<strong>KotlinによるAndroidアプリ開発</strong>を中心に学習・制作を行ってきました。
+
+
+ <h2>📂 成果物一覧</h2>
+<ul>
+  <li><a href="mushroom.html">🍄 毒キノコの分類について（機械学習）</a></li>
+  <li>
+    <a href="https://s-nakamura333.github.io/RUL-prediction/">🛠 ターボエンジンRUL予測（回帰モデル）</a>
+    <ul>
+      <li><a href="https://github.com/s-nakamura333/RUL-prediction/blob/main/docs/RUL_summary.pdf" target="_blank">📄 PDFスライドを見る</a></li>
+    </ul>
+  </li>
+  <li><a href="https://s-nakamura333.github.io/donjara/">🀄 ドンジャラ計算ツール（ロジック設計）</a></li>
+</ul>
+    
   </p>
