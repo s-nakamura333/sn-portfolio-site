@@ -14,12 +14,12 @@
     <li>
     <a href="https://s-nakamura333.github.io/donjara/">🀄 ドンジャラ計算ツール（ロジック設計）</a>
     <ul>
-      <li><a href="https://github.com/s-nakamura333/donjara/blob/8b32a072000d8eeec1d20beff45048ff9b66ea9c/docs/donjara_pdf20250530.pdf" target="_blank">📄 PDFスライドを見る</a></li>
+      <li><a href="https://github.com/s-nakamura333/donjara/blob/8b32a072000d8eeec1d20beff45048ff9b66ea9c/docs/donjara_pdf20250530.pdf" target="_blank">📄 PDFスライドを見る</a></li></ul>
     <li>
     <a href="https://s-nakamura333.github.io/RUL-prediction/">🛠 ターボエンジンRUL予測（回帰モデル）</a>
     <ul>
       <li><a href="https://github.com/s-nakamura333/RUL-prediction/blob/main/docs/RUL_summary.pdf" target="_blank">📄 PDFスライドを見る
-</a></li>
+</a></li></ul>
     
   <li><a href="mushroom.html">🍄 毒キノコの分類について（機械学習）</a></li>
     
