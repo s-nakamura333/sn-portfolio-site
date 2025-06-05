@@ -26,7 +26,7 @@
     <ul>
       <li><a href="https://github.com/s-nakamura333/kinoko/blob/main/doc/kinoko.pdf" target="_blank">📄 PDFスライドを見る
 </a></li></ul>
-
+  </ul>
 <h2>📎 関連ポートフォリオリンク</h2>
 <ul>
   <li><a href="https://github.com/s-nakamura333/sn-portfolio-site" target="_blank">就活用ポートフォリオ一覧</a></li>
